@@ -61,30 +61,29 @@ education:
       time: 2018 - 20
       details: |
         
-          - Bullet point
-          - Bullet point
+         
 experiences:
     - role: 
       time: 2018 - 
       company: 
       details: |
        
-          - Bullet point
-          - Bullet point
+          
+          
     - role: Senior Software Engineer
       time: 2018 - 20
       company: 
       details: |
        
-          - Bullet point
-          - Bullet point
+          
+          
     - role: 
       time: 2018 - 20
       company: 
       details: |
         
-          - Bullet point
-          - Bullet point
+          
+          
 projects:
     title: Projects
     intro: >
